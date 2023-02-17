@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://www.lua.org/ftp/lua-5.4.4.tar.gz'
-tag='MD5=bd8ce7069ff99a400efd14cf339a727b'

@@ -1,1 +1,0 @@
-cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DBOX2D_BUILD_UNIT_TESTS=OFF;-DBOX2D_BUILD_TESTBED=OFF;-DBOX2D_BUILD_DOCS=OFF;-DBUILD_SHARED_LIBS=ON;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,1 +1,0 @@
-cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DBUILD_SHARED_LIBS=ON;-DGLFW_BUILD_EXAMPLES=OFF;-DGLFW_BUILD_TESTS=OFF;-DGLFW_BUILD_DOCS=OFF;-DGLFW_INSTALL=OFF;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,1 +1,0 @@
-cmd='devenv;win32/VS2010/libvorbisfile/libvorbisfile_dynamic.vcxproj;/Upgrade'

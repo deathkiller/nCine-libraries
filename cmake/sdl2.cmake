@@ -1,5 +1,5 @@
 set(TARGET_SDL2 sdl2)
-set(URL_SDL2 https://www.libsdl.org/release/SDL2-2.24.0.tar.gz)
+set(URL_SDL2 https://www.libsdl.org/release/SDL2-2.26.3.tar.gz)
 set(URL_MD5_SDL2 cf539ffe9e0dd6f943ac9de75fd2e56e)
 set(LIBNAME_SDL2 SDL2)
 set(LIBNAME_SDL2MAIN SDL2main)
