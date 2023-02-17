@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_box2d"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_box2d.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_box2d-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_box2d/project_box2d-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_box2d"
+		],
+		"name" : "project_box2d"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ project_glfw
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-update.rule

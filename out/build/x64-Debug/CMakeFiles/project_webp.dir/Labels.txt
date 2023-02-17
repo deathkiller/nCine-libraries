@@ -1,0 +1,13 @@
+# Target labels
+ project_webp
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-update.rule

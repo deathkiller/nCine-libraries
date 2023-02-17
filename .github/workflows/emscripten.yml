@@ -34,7 +34,7 @@ jobs:
     - name: 'CMake Configuration for Emscripten'
       run: |
         source ../emsdk/emsdk_env.sh
-        emcmake cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }}
+        emcmake cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D DESTINATION_PATH='./_build/'
 
     - name: 'Make'
       run: |
@@ -45,5 +45,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Emscripten
-        path: ./nCine-external-emscripten/
+        path: _build
         

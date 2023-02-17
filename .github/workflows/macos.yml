@@ -34,7 +34,7 @@ jobs:
 
     - name: 'CMake Configuration'
       run: |
-        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D CMAKE_OSX_ARCHITECTURES='${{ matrix.ARCH }}'
+        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D CMAKE_OSX_ARCHITECTURES='${{ matrix.ARCH }}' -D DESTINATION_PATH='./_build/' -D BUILD_PNG=OFF
 
     - name: 'Make'
       run: |
@@ -42,11 +42,10 @@ jobs:
 
     - name: 'Create TAR'
       run: |
-        cd ..
-        tar cpzf libraries.tar.gz nCine-external
+        tar cpzf libraries.tar.gz _build
         
     - name: 'Upload Artifacts'
       uses: actions/upload-artifact@v3
       with:
         name: MacOS_${{ matrix.ArchName }}
-        path: ../libraries.tar.gz
+        path: libraries.tar.gz

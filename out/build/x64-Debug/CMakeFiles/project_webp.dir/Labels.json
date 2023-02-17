@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_webp-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_webp/project_webp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_webp"
+		],
+		"name" : "project_webp"
+	}
+}

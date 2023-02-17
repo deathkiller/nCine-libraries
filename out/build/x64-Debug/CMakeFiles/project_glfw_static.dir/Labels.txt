@@ -1,0 +1,21 @@
+# Target labels
+ project_glfw_static
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw_static
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw_static.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw_static-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw_static/project_glfw_static-update.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_glfw-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_glfw/project_glfw-update.rule

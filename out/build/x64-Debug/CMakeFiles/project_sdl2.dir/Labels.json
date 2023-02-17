@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_sdl2"
+		],
+		"name" : "project_sdl2"
+	}
+}

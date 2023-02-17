@@ -1,0 +1,13 @@
+# Target labels
+ project_zlib
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_zlib
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_zlib.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_zlib-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-update.rule

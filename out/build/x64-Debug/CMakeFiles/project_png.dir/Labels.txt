@@ -1,0 +1,21 @@
+# Target labels
+ project_png
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_png
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_png.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_png-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_png/project_png-update.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_zlib-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_zlib/project_zlib-update.rule

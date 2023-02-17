@@ -1,0 +1,13 @@
+# Target labels
+ project_openal
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_openal
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_openal.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_openal-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_openal/project_openal-update.rule

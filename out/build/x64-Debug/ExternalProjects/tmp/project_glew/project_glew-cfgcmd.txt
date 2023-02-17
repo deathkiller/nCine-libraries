@@ -1,0 +1,1 @@
+cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-E;touch;CMakeLists.txt;COMMAND;C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;build/cmake;-A;-DBUILD_UTILS=OFF'

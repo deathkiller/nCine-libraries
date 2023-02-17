@@ -40,7 +40,7 @@ jobs:
         export CC=${{ matrix.CC }}
         export CXX=${{ matrix.CXX }}
 
-        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }}
+        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D DESTINATION_PATH='./_build/'
 
     - name: 'Make'
       run: |
@@ -50,5 +50,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Linux
-        path: ./nCine-external/
+        path: _build
        

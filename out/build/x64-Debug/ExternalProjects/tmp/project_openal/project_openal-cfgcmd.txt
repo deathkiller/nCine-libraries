@@ -1,0 +1,1 @@
+cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DALSOFT_UTILS=OFF;-DALSOFT_EXAMPLES=OFF;-DALSOFT_TESTS=OFF;-DALSOFT_INSTALL_CONFIG=OFF;-DALSOFT_INSTALL=OFF;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

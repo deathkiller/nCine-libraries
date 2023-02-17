@@ -1,0 +1,67 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg_static"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg_static.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg_static-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg_static/project_ogg_static-update.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_ogg_static"
+		],
+		"name" : "project_ogg_static"
+	}
+}

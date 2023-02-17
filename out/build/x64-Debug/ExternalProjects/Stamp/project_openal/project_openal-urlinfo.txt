@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/kcat/openal-soft/archive/1.22.2.tar.gz'
+tag='MD5=2d660bff2a16128bc7e894b1254d3783'

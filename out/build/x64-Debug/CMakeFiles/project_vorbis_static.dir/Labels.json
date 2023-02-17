@@ -1,0 +1,91 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_vorbis_static"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_vorbis_static.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_vorbis_static-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis_static/project_vorbis_static-update.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_vorbis-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_vorbis/project_vorbis-update.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg-complete.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-build.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-configure.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-download.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-install.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-patch.rule"
+		},
+		{
+			"file" : "D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_vorbis_static"
+		],
+		"name" : "project_vorbis_static"
+	}
+}

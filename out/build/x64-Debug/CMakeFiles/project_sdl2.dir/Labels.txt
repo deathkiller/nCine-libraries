@@ -1,0 +1,13 @@
+# Target labels
+ project_sdl2
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_sdl2-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_sdl2/project_sdl2-update.rule

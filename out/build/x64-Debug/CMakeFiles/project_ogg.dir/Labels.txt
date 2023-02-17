@@ -1,0 +1,13 @@
+# Target labels
+ project_ogg
+# Source files and their labels
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/CMakeFiles/project_ogg-complete.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-build.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-configure.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-download.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-install.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-mkdir.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-patch.rule
+D:/Projekty/nCine-libraries/out/build/x64-Debug/ExternalProjects/Stamp/project_ogg/project_ogg-update.rule
