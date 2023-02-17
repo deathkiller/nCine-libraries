@@ -15,6 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        include:
         - BuildType: Release
           ArchName: x64
           ARCH: x86_64
