@@ -34,7 +34,7 @@ jobs:
 
     - name: 'CMake Configuration'
       run: |
-        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D CMAKE_OSX_ARCHITECTURES='${{ matrix.ARCH }}' -D DESTINATION_PATH='./_build/' -D BUILD_PNG=OFF
+        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D CMAKE_OSX_ARCHITECTURES="${{ matrix.ARCH }}" -D BUILD_PNG=OFF
 
     - name: 'Make'
       run: |

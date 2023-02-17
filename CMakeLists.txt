@@ -18,9 +18,9 @@ set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake ${CMAKE_MODULE_PATH})
 get_filename_component(PARENT_SOURCE_DIR ${CMAKE_SOURCE_DIR} DIRECTORY)
 
 if(NOT EMSCRIPTEN)
-	set(DESTINATION_PATH ${PARENT_SOURCE_DIR}/nCine-external CACHE STRING "Set the destination directory where files will be copied")
+	set(DESTINATION_PATH ${CMAKE_SOURCE_DIR}/_build/ CACHE STRING "Set the destination directory where files will be copied")
 else()
-	set(DESTINATION_PATH ${PARENT_SOURCE_DIR}/nCine-external-emscripten CACHE STRING "Set the destination directory where files will be copied")
+	set(DESTINATION_PATH ${CMAKE_SOURCE_DIR}/_build/ CACHE STRING "Set the destination directory where files will be copied")
 endif()
 
 set(EP_BASE "${CMAKE_BINARY_DIR}/ExternalProjects")

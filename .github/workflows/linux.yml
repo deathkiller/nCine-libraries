@@ -40,7 +40,7 @@ jobs:
         export CC=${{ matrix.CC }}
         export CXX=${{ matrix.CXX }}
 
-        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -D DESTINATION_PATH='./_build/'
+        cmake -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }}
 
     - name: 'Make'
       run: |
