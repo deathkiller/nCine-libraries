@@ -35,7 +35,8 @@ jobs:
       run: |
         #cmake --build ../nCine-libraries-build --config ${{ matrix.BuildType }}
         cd ..\nCine-libraries-build
-        msbuild ".\nCine-libraries-build.sln" -p:Configuration=${{ matrix.BuildType }} -p:Platform=${{ matrix.Platform }}
+        dir
+        msbuild ".\nCine-libraries.sln" -p:Configuration=${{ matrix.BuildType }} -p:Platform=${{ matrix.Platform }}
 
     - name: 'Upload Artifacts'
       uses: actions/upload-artifact@v3
