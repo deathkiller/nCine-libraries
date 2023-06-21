@@ -28,7 +28,7 @@ if(MSVC)
 			COMMAND ${CMAKE_COMMAND} -E copy_if_different ${LIBFILE_SDL2_IMPLIB} ${LIBDIR}/
 			COMMAND ${CMAKE_COMMAND} -E copy_if_different ${LIBFILE_SDL2MAIN} ${LIBDIR}/
 			COMMAND ${CMAKE_COMMAND} -E copy_directory ${EP_BASE}/Source/project_${TARGET_SDL2}/include ${INCDIR}/SDL2
-			COMMAND ${CMAKE_COMMAND} -E copy_if_different include-config-$<LOWER_CASE:$<CONFIG>>/SDL_config.h ${INCDIR}/SDL2/
+			COMMAND ${CMAKE_COMMAND} -E copy_if_different include-config-$<LOWER_CASE:$<CONFIG>>/SDL2/SDL_config.h ${INCDIR}/SDL2/
 			COMMAND ${CMAKE_COMMAND} -E remove ${INCDIR}/SDL2/SDL_config.h.cmake
 			COMMAND ${CMAKE_COMMAND} -E remove ${INCDIR}/SDL2/SDL_config.h.in
 	)

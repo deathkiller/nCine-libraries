@@ -14,9 +14,9 @@ jobs:
         - BuildType: Release
           ArchName: ARM64
           ARCH: arm64
-        - BuildType: Release
-          ArchName: Universal
-          ARCH: arm64;x86_64
+        #- BuildType: Release
+        #  ArchName: Universal
+        #  ARCH: arm64;x86_64
 
     runs-on: 'macOS-latest'
 
