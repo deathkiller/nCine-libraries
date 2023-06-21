@@ -11,6 +11,7 @@ jobs:
         os: [windows-2019]
         #BuildType: [Debug, Release]
         BuildType: [Release]
+        Platform: [Win32, x64]
 
     runs-on: ${{ matrix.os }}
 
@@ -25,14 +26,16 @@ jobs:
           "windows-2022" {"Visual Studio 17 2022"}
           "windows-2019" {"Visual Studio 16 2019"}
         }
-        cmake -G "$env:generator" -A x64 -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }}
+        cmake -G "$env:generator" -A x64 -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }} -A ${{ matrix.Platform }} -D CMAKE_SYSTEM_PROCESSOR=${{ matrix.Platform }}
 
     - name: 'CMake Build'
       run: |
-        cmake --build ../nCine-libraries-build --config ${{ matrix.BuildType }}
+        #cmake --build ../nCine-libraries-build --config ${{ matrix.BuildType }}
+        cd ..\nCine-libraries-build
+        msbuild ".\nCine-libraries-build.sln" -p:Configuration=${{ matrix.BuildType }} -p:Platform=${{ matrix.Platform }}
 
     - name: 'Upload Artifacts'
       uses: actions/upload-artifact@v3
       with:
-        name: Windows
+        name: Windows_${{ matrix.Platform }}
         path: _build
