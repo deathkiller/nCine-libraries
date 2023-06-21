@@ -1,0 +1,38 @@
+name: 'Windows'
+
+on: [push, workflow_dispatch]
+
+jobs:
+  Windows:
+    strategy:
+      fail-fast: false
+      matrix:
+        #os: [windows-2019, windows-2022]
+        os: [windows-2019]
+        #BuildType: [Debug, Release]
+        BuildType: [Release]
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+    - name: 'Checkout code'
+      uses: actions/checkout@v3
+
+    - name: 'CMake Configuration'
+      run: |
+        $env:generator = switch ("${{ matrix.os }}")
+        {
+          "windows-2022" {"Visual Studio 17 2022"}
+          "windows-2019" {"Visual Studio 16 2019"}
+        }
+        cmake -G "$env:generator" -A x64 -B ../nCine-libraries-build -D CMAKE_BUILD_TYPE=${{ matrix.BuildType }}
+
+    - name: 'CMake Build'
+      run: |
+        cmake --build ../nCine-libraries-build --config ${{ matrix.BuildType }}
+
+    - name: 'Upload Artifacts'
+      uses: actions/upload-artifact@v3
+      with:
+        name: Windows
+        path: _build

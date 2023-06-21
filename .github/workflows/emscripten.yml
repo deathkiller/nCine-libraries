@@ -1,13 +1,5 @@
 name: 'Emscripten'
 
-env:
-  DEPLOY_FILE_NOEXT: nCine-external-OS-COMPILER-VERSION
-  DEPLOY_MESSAGE:
-    "Push artifact from GitHub Actions build ${{ github.run_number }} with id ${{ github.run_id }}
-
-     - nCine-libraries artifact from branch 'BRANCH_NAME' with commit id ${{ github.sha }}"
-  DEPLOY_BRANCH: libraries-OS-COMPILER
-
 on: [push, workflow_dispatch]
 
 jobs:
